@@ -1,5 +1,7 @@
 # ONE_regressao_linear
+
 Testando Relações com Regressão Linear
+
 Módulo do Curso #ONE Oracle Next Education
 
 📘 **Precificação Imobiliária com Regressão Linear**
